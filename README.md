@@ -1,4 +1,6 @@
 # React Mini Projects 🚀
 
-This repository contains a collection of **small React projects** that I built while learning React **topic by topic**.  
-Each project focuses on a specific concept to strengthen my understanding through hands-on practice.
+This repository contains a collection of **small React projects** built while learning React **step by step**.  
+Each project focuses on a specific React concept and is created to strengthen understanding through hands-on practice.
+
+Instead of just following tutorials, this repository emphasizes **learning by building**.
